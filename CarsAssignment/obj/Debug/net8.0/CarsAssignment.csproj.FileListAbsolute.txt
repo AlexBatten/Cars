@@ -12,3 +12,8 @@ C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\refint\CarsAss
 C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.pdb
 C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.genruntimeconfig.cache
 C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\ref\CarsAssignment.dll
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.csproj.AssemblyReference.cache
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.sourcelink.json
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.csproj.CopyComplete
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\bin\Debug\net8.0\cars.json
