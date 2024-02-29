@@ -1,0 +1,14 @@
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\bin\Debug\net8.0\CarsAssignment.exe
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\bin\Debug\net8.0\CarsAssignment.deps.json
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\bin\Debug\net8.0\CarsAssignment.runtimeconfig.json
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\bin\Debug\net8.0\CarsAssignment.dll
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\bin\Debug\net8.0\CarsAssignment.pdb
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.AssemblyInfoInputs.cache
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.AssemblyInfo.cs
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.dll
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\refint\CarsAssignment.dll
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.pdb
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\CarsAssignment.genruntimeconfig.cache
+C:\Users\alexb\RiderProjects\Cars\CarsAssignment\obj\Debug\net8.0\ref\CarsAssignment.dll
